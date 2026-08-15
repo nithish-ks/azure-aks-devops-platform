@@ -1,0 +1,4 @@
+location             = "Canada Central"
+resource_group_name  = "rg-aksdevops-tfstate"
+storage_account_name = "YOUR_UNIQUE_STORAGE_ACCOUNT_NAME"
+container_name       = "tfstate"
